@@ -1,44 +1,4 @@
-Skip to content
-Keerthanasampathkumar
-/
-Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-Type / to search
-
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Files
-Go to file
-t
-README.md
-Documentation • Share feedback
-Pane width
-Use a value between 17% and 35%
-
-22
-Change width
-BreadcrumbsEx.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
-/README.md
-Latest commit
-Keerthanasampathkumar
-Keerthanasampathkumar
-Update README.md
-d510466
- · 
-2 days ago
-History
-File metadata and controls
-
-Preview
-
-Code
-
-Blame
-39 lines (27 loc) · 2.13 KB
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ## AIM:
