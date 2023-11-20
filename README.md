@@ -33,8 +33,8 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/blob/main/6.png)
 
-### Name: ARHAM S
-### Register Number: 212222110005
+### Name: KATHIRAVAN.P
+### Register Number: 212222230063
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
